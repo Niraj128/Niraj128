@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://datacamp.wynisco.com/assets/images/dataengarch-d534eeca8f7265e13a395b5629d41a5c.gif">
+<img align="right" alt="coding" width="300" src="https://datacamp.wynisco.com/assets/images/dataengarch-d534eeca8f7265e13a395b5629d41a5c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj128&label=Profile%20views&color=0e75b6&style=flat" alt="niraj128" /> </p>
 
