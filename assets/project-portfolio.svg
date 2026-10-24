@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img">
+    <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1f35"/><stop offset="1" stop-color="#07111f"/></linearGradient><linearGradient id="accent"><stop stop-color="#35d9f4"/><stop offset="1" stop-color="#7a91ff"/></linearGradient></defs>
+    <rect x="2" y="2" width="816" height="296" rx="22" fill="url(#bg)" stroke="#234965" stroke-width="3"/>
+    <rect x="24" y="29" width="7" height="49" rx="3" fill="url(#accent)"/>
+    <text x="52" y="62" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#8ddded">02 / PROFESSIONAL PROFILE</text>
+    <text x="52" y="128" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="700" fill="#f0f7fc">DevOps Portfolio</text>
+    <text x="52" y="171" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b7cbdc">Skills • Experience • Projects</text>
+    <path d="M52 222H440" stroke="#24465f" stroke-width="2"/>
+    <text x="52" y="256" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#79b5ce">VIEW THE WORK →</text>
+    <g stroke="#9b8afb" stroke-width="3" fill="none"><rect x="582" y="100" width="172" height="122" rx="11"/><path d="M582 135h172"/><circle cx="601" cy="119" r="5" fill="#9b8afb"/><circle cx="621" cy="119" r="5" fill="#9b8afb"/><path d="M604 162l17 15-17 15 M633 191h47"/></g></svg>

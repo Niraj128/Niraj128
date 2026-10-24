@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Azure DevOps Terraform pipeline learning project">
+<defs><linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c31"/><stop offset="1" stop-color="#07111f"/></linearGradient><linearGradient id="acp"><stop stop-color="#7b8cff"/><stop offset="1" stop-color="#44d4ee"/></linearGradient></defs>
+<rect x="2" y="2" width="816" height="296" rx="22" fill="url(#bgp)" stroke="#314268" stroke-width="3"/>
+<rect x="24" y="29" width="7" height="49" rx="3" fill="url(#acp)"/>
+<text x="52" y="62" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#a9b2ff">04 / PIPELINE LAB</text>
+<text x="52" y="128" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#f0f7fc">Terraform CI/CD</text>
+<text x="52" y="170" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#b7cbdc">Azure DevOps  •  Remote state</text>
+<path d="M52 222H435" stroke="#344864" stroke-width="2"/>
+<text x="52" y="256" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#a6afef">ITERATIVE IMPLEMENTATION →</text>
+<g fill="none" stroke="#6d9cfa" stroke-width="3"><circle cx="562" cy="171" r="22"/><circle cx="654" cy="171" r="22"/><circle cx="746" cy="171" r="22"/><path d="M584 171H632M676 171H724"/></g>
+<g fill="#d9eaff" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle"><text x="562" y="176">V</text><text x="654" y="176">P</text><text x="746" y="176">A</text></g>
+</svg>

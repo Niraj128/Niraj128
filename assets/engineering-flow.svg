@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-label="Engineering workflow: Define, Design, Validate, Deploy, Verify">
+<defs><linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1c30"/><stop offset="1" stop-color="#0b1223"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="241" rx="20" fill="url(#bgf)" stroke="#26435d" stroke-width="3"/>
+<text x="34" y="44" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="1" fill="#76d9f0">ENGINEERING WORKFLOW</text>
+<text x="34" y="70" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#9db4c9">From architecture decisions to documented infrastructure changes</text>
+<rect x="29" y="97" width="214" height="112" rx="13" fill="#11263e" stroke="#315d79" stroke-width="2"/>
+<text x="45" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#56d8e5">01</text>
+<text x="45" y="159" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#ecf4fd">Define</text>
+<text x="45" y="184" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c1d3">Requirements</text>
+<rect x="266" y="97" width="214" height="112" rx="13" fill="#11263e" stroke="#315d79" stroke-width="2"/>
+<text x="282" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#56d8e5">02</text>
+<text x="282" y="159" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#ecf4fd">Design</text>
+<text x="282" y="184" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c1d3">Reusable modules</text>
+<rect x="503" y="97" width="214" height="112" rx="13" fill="#11263e" stroke="#315d79" stroke-width="2"/>
+<text x="519" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#56d8e5">03</text>
+<text x="519" y="159" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#ecf4fd">Validate</text>
+<text x="519" y="184" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c1d3">Review changes</text>
+<rect x="740" y="97" width="214" height="112" rx="13" fill="#11263e" stroke="#315d79" stroke-width="2"/>
+<text x="756" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#56d8e5">04</text>
+<text x="756" y="159" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#ecf4fd">Deploy</text>
+<text x="756" y="184" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c1d3">Controlled access</text>
+<rect x="977" y="97" width="214" height="112" rx="13" fill="#11263e" stroke="#315d79" stroke-width="2"/>
+<text x="993" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#56d8e5">05</text>
+<text x="993" y="159" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#ecf4fd">Verify</text>
+<text x="993" y="184" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#a8c1d3">Document outcomes</text>
+<g fill="none" stroke="#59dce5" stroke-width="3"><path d="M243 151h22m-7 -7 7 7-7 7"/><path d="M480 151h22m-7 -7 7 7-7 7"/><path d="M717 151h22m-7 -7 7 7-7 7"/><path d="M954 151h22m-7 -7 7 7-7 7"/></g>
+</svg>
